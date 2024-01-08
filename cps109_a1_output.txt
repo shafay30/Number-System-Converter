@@ -1,0 +1,4 @@
+Binary: 1010101
+Decimal: 85
+Hexadecimal: 55
+Octal: 125

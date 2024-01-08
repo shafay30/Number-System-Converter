@@ -1,0 +1,4 @@
+Enter the type of conversion followed by the number you would like to convert.
+ie.
+
+binary 1010101
