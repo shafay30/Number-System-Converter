@@ -15,3 +15,9 @@ as a whole. By allowing students to input values in one number system and view t
 corresponding representations in others, this program serves as a practical tool 
 for illustrating connections between binary arithmetic, data representation, and 
 the broader concepts of computer science. 
+
+
+
+Example Usage:
+![2799EE73-9BB6-471C-8C0F-82936BE20AFF_1_201_a](https://github.com/user-attachments/assets/0726d660-54c7-4a57-aef0-a0265d2378c8)
+
